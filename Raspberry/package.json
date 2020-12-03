@@ -1,0 +1,15 @@
+{
+  "name": "raspberry",
+  "version": "1.0.0",
+  "description": "super challenge 2019 ddagaebi project raspberry drone server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "yoo seon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
